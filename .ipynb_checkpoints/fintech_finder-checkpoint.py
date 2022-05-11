@@ -271,7 +271,8 @@ if st.sidebar.button("Send Transaction"):
     # Your `account`, the `candidate_address`, and the `wage` as parameters
     # Save the returned transaction hash as a variable named `transaction_hash`
     send_transaction(w3, account, candidate_address, wage)
-    
+    TX = transaction_hash
+
     # Markdown for the transaction hash
     st.sidebar.markdown("#### Validated Transaction Hash")
 
