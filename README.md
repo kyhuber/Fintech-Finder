@@ -30,13 +30,12 @@ Behind the UI, code in the Fintech Finder 'crypto_wallet' file interacts with a 
 
 ## Result
 
-Upon completion of the transaction, details are stored in the Ganache Transactions ledger.
+Upon completion of the transaction, details are stored in the Ganache Transactions block history.
 
-   ![Transaction Details](https://user-images.githubusercontent.com/69730757/167964722-380ee1fe-6e4a-49be-b918-4fbc1191991a.png)
+   ![Block History](https://user-images.githubusercontent.com/69730757/167966210-f06906a2-d242-4b46-bb2f-81308a9dbc2e.png)
 
 
-
-On the Accounts page, you can see that the user's address (at top) has been debited for each transaction and the candidate's address (below) has been credited. Transaction complete!
+On the Accounts page, you can see that the user's address (at top) has been debited for multiple transactions and the candidate's address (below) has been credited for the most recent transaction. Wages paid!
 
    ![Account Balances](https://user-images.githubusercontent.com/69730757/167965005-a9c9e7d5-31c5-45ed-9913-fba9d685e35d.png)
 
