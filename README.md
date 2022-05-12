@@ -43,7 +43,7 @@ On the Accounts page, you can see that the user's address (at top) has been debi
 
 ## Technologies
 
-The Fintech-Finder app is written in Python 3.10.1 using Microsoft Visual Studio. It is compatible with Mac and PC OS.
+The Fintech-Finder app is written in Python 3.10.1 and uses the web3 library.
 The web interface is rendered using Streamlit.
 Ganache provides the Ethereum blockchain, including transactions and hashing.
 
