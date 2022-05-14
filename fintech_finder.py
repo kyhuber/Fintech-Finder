@@ -89,7 +89,7 @@ from crypto_wallet import generate_account, get_balance, send_transaction
 # A single Ether is currently valued at $1,500
 candidate_database = {
     "Lane": ["Lane", "0x2c047F14ada7DF0eF4F40F9Da20e56d4B1526F64", "4.3", .20, "Images/lane.jpeg"],
-    "Ash": ["Ash", "0x2422858F9C4480c2724A309D58Ffd7Ac8bF65396", "5.0", .33, "Images/ash.jpeg"],
+    "Ash": ["Ash", "0x9b81Fd4e2314a3C9e22B7BDfe94793F9792E3B8e", "5.0", .33, "Images/ash.jpeg"],
     "Jo": ["Jo", "0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45", "4.7", .19, "Images/jo.jpeg"],
     "Kendall": ["Kendall", "0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45", "4.1", .16, "Images/kendall.jpeg"]
 }
