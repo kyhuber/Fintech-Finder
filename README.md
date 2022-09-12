@@ -1,6 +1,6 @@
 # Fintech-Finder
 
-A web-based marketplace to find fintech professional candidates, hire them, and pay their wages on the blockchain using Ether.
+A web-based marketplace to find, hire, and pay fintech professional candidates on the blockchain using Ether.
 
 ## User Experience
 The Fintech Finder app showcases available candidates, including their photo, name, Ethereum account address, FinTech Finder rating, and hourly rate.
